@@ -1,98 +1,163 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:14B8A6&height=190&section=header&text=Leonardo%20Wendt&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Dados%20%7C%20BI%20%7C%20Analytics&descSize=20&descAlignY=57" alt="Leonardo Wendt - Dados, BI e Analytics" />
+<img src="./assets/profile-dashboard.svg" width="100%" alt="Leonardo Wendt - Dashboard profissional de Dados, BI, Analytics e Front-end" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=0F766E&center=true&vCenter=true&width=760&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Tecnologia+com+vis%C3%A3o+de+neg%C3%B3cio)](https://git.io/typing-svg)
-
-[![Localização](https://img.shields.io/badge/Novo_Hamburgo-RS-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/Novo+Hamburgo+RS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Wendt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-wendt)
-
-</div>
-
-## Sobre mim
-
-Sou estudante de **Ciência da Computação** e profissional em transição para **Dados, BI e Analytics**. Gosto de transformar informações dispersas em análises claras, indicadores úteis e soluções que apoiem decisões reais.
-
-Minha experiência combina visão de negócio, processos administrativos e faturamento com competências técnicas em **Python, SQL, Power BI, Excel, automação e Inteligência Artificial**. Também atuei com desenvolvimento front-end, criando interfaces em React e integrando APIs REST.
-
-- 🎓 Bacharelado em Ciência da Computação - Estácio (2024-2028)
-- 📊 Foco profissional em Análise de Dados, BI e automação de processos
-- 💼 Experiência em rotinas administrativas, integridade de dados e faturamento industrial
-- 🌱 Em evolução constante em modelagem de dados, dashboards e IA aplicada
-- 🌎 Português nativo e inglês profissional
-- 🎯 Aberto a oportunidades em Dados e Analytics
-
-## Tecnologias e ferramentas
-
-<div align="center">
-
-**Dados, BI e automação**
-
-![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FACC15)
-![SQL](https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
-![Power BI](https://img.shields.io/badge/Power_BI-1E293B?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel_Avançado-1E293B?style=for-the-badge&logo=microsoftexcel&logoColor=22C55E)
-![IA](https://img.shields.io/badge/IA_Aplicada-1E293B?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-
-**Desenvolvimento**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![APIs](https://img.shields.io/badge/APIs_REST-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Git](https://img.shields.io/badge/Git_%26_GitHub-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+[![Portfolio](https://img.shields.io/badge/PORTFÓLIO-071426?style=for-the-badge&logo=googlechrome&logoColor=4BB8FF)](https://ifwendt.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=4BB8FF)](https://www.linkedin.com/in/leonardo-wendt)
+[![Currículo](https://img.shields.io/badge/BAIXAR_CV-071426?style=for-the-badge&logo=readme&logoColor=6AE4BD)](https://raw.githubusercontent.com/IfWendt/ifwendt.github.io/main/Leonardo-Wendt-CV.pdf)
+[![Localização](https://img.shields.io/badge/NOVO_HAMBURGO_·_RS-071426?style=for-the-badge&logo=googlemaps&logoColor=4BB8FF)](https://www.google.com/maps/search/Novo+Hamburgo+RS)
 
 </div>
 
-## Experiência que levo para tecnologia
+## `01 / PERFIL`
 
-| Área | Como gero valor |
-|---|---|
-| **Dados e processos** | Organização, triagem e atualização de informações com foco em precisão e integridade. |
-| **Faturamento e operações** | Conferência de pedidos, emissão de notas fiscais e conexão entre áreas administrativas e logística. |
-| **Desenvolvimento web** | Criação de mais de 15 componentes reutilizáveis em React, integração de APIs REST e interfaces responsivas. |
-| **Automação e IA** | Aplicação de tecnologia para reduzir tarefas repetitivas e apoiar a resolução de problemas operacionais. |
+<table>
+<tr>
+<td width="58%" valign="top">
 
-## Projetos em destaque
+### Tecnologia com visão de negócio
+
+Sou estudante de **Ciência da Computação** e construo minha trajetória na interseção entre **Dados, BI, Analytics, IA e desenvolvimento de interfaces**.
+
+Minha experiência em faturamento, processos administrativos e produto digital me ensinou a enxergar o fluxo completo: entender o problema, organizar a informação, construir a solução e comunicar o resultado com clareza.
+
+> Transformo dados e lógica em decisões, automações e experiências digitais úteis.
+
+</td>
+<td width="42%" valign="top">
+
+### Radar atual
+
+```text
+FOCO        Dados · BI · Analytics
+ANÁLISE     SQL · Power BI · Excel
+AUTOMAÇÃO   Python · IA aplicada
+PRODUTO     React · JavaScript · APIs
+STATUS      Aberto a oportunidades
+```
+
+</td>
+</tr>
+</table>
+
+## `02 / COMMAND CENTER`
 
 <div align="center">
 
-<a href="https://github.com/IfWendt/mtrek-new">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=IfWendt&repo=mtrek-new&theme=transparent&title_color=0F766E&text_color=334155&icon_color=14B8A6&border_color=CBD5E1" alt="Projeto mtrek-new" />
-</a>
-<a href="https://github.com/IfWendt/pokedex">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=IfWendt&repo=pokedex&theme=transparent&title_color=0F766E&text_color=334155&icon_color=14B8A6&border_color=CBD5E1" alt="Projeto Pokédex" />
-</a>
-<a href="https://github.com/IfWendt/Login-LOL">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=IfWendt&repo=Login-LOL&theme=transparent&title_color=0F766E&text_color=334155&icon_color=14B8A6&border_color=CBD5E1" alt="Projeto Login LOL" />
-</a>
-<a href="https://github.com/IfWendt/Calculadora-Python">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=IfWendt&repo=Calculadora-Python&theme=transparent&title_color=0F766E&text_color=334155&icon_color=14B8A6&border_color=CBD5E1" alt="Projeto Calculadora em Python" />
-</a>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=IfWendt&show_icons=true&include_all_commits=true&hide_border=true&bg_color=071426&title_color=4BB8FF&text_color=DFF3FF&icon_color=6AE4BD&ring_color=1877F2&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfWendt&layout=compact&langs_count=8&hide_border=true&bg_color=071426&title_color=4BB8FF&text_color=DFF3FF&locale=pt-br" alt="Linguagens mais usadas" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IfWendt&bg_color=071426&color=9DB2CA&line=4BB8FF&point=6AE4BD&area=true&area_color=1877F2&hide_border=true&custom_title=Fluxo%20de%20contribuições" alt="Gráfico de atividade no GitHub" />
 
 </div>
 
-## Atividade no GitHub
+## `03 / STACK MAP`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IfWendt&show_icons=true&hide_border=false&border_color=CBD5E1&title_color=0F766E&icon_color=14B8A6&text_color=334155&bg_color=00000000&locale=pt-br" alt="Estatísticas do GitHub de Leonardo Wendt" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfWendt&layout=compact&langs_count=8&border_color=CBD5E1&title_color=0F766E&text_color=334155&bg_color=00000000&locale=pt-br" alt="Linguagens mais utilizadas por Leonardo Wendt" />
+### Dados, BI & automação
+
+![Python](https://img.shields.io/badge/Python-0B1F38?style=for-the-badge&logo=python&logoColor=4BB8FF)
+![SQL](https://img.shields.io/badge/SQL-0B1F38?style=for-the-badge&logo=postgresql&logoColor=4BB8FF)
+![Power BI](https://img.shields.io/badge/Power_BI-0B1F38?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0B1F38?style=for-the-badge&logo=microsoftexcel&logoColor=6AE4BD)
+![IA aplicada](https://img.shields.io/badge/IA_aplicada-0B1F38?style=for-the-badge&logo=openai&logoColor=DFF3FF)
+
+### Front-end & produto
+
+![React](https://img.shields.io/badge/React-102A49?style=for-the-badge&logo=react&logoColor=4BB8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-102A49?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-102A49?style=for-the-badge&logo=html5&logoColor=FF6B4A)
+![CSS3](https://img.shields.io/badge/CSS3-102A49?style=for-the-badge&logo=css3&logoColor=4BB8FF)
+![APIs REST](https://img.shields.io/badge/APIs_REST-102A49?style=for-the-badge&logo=fastapi&logoColor=6AE4BD)
+![Git](https://img.shields.io/badge/Git_&_GitHub-102A49?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
-## Formação
+## `04 / SELECTED BUILDS`
 
-- **Bacharelado em Ciência da Computação** - Estácio, 2024-2028
-- **Formação em Tecnologia e Análise de Dados** - Alura, 2023-2024
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Portfolio Dashboard](https://ifwendt.github.io) `LIVE`
+
+Portfólio profissional com linguagem visual de dashboard, narrativa de carreira, filtros de projetos e experiência responsiva.
+
+`HTML` `CSS` `JavaScript` `Design System`
+
+</td>
+<td width="50%" valign="top">
+
+### [Mtrek](https://github.com/IfWendt/mtrek-new) `WEB`
+
+Projeto multipágina com formulários, componentes reutilizáveis, navegação estruturada e integração de experiências web.
+
+`Front-end` `Componentes` `Produto`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Pokédex](https://github.com/IfWendt/pokedex) `INTERFACE`
+
+Experiência temática que organiza dados e interação em uma interface clara, responsiva e orientada a JavaScript.
+
+`JavaScript` `UI` `Consumo de dados`
+
+</td>
+<td width="50%" valign="top">
+
+### [Space Invaders](https://github.com/IfWendt/Space-Invaders) `LOGIC`
+
+Jogo no navegador que combina eventos, regras, estados e lógica para construir uma experiência interativa completa.
+
+`Game loop` `Eventos` `Algoritmos`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### Vamos transformar dados em decisões?
+<a href="https://github.com/IfWendt/mtrek-new"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=IfWendt&repo=mtrek-new&hide_border=true&bg_color=071426&title_color=4BB8FF&text_color=9DB2CA&icon_color=6AE4BD" alt="Repositório Mtrek" /></a>
+<a href="https://github.com/IfWendt/pokedex"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=IfWendt&repo=pokedex&hide_border=true&bg_color=071426&title_color=4BB8FF&text_color=9DB2CA&icon_color=6AE4BD" alt="Repositório Pokédex" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-wendt)
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0F766E,100:0F172A&height=110&section=footer" alt="" />
+## `05 / TRAJETÓRIA`
+
+| Período | Experiência | Impacto |
+|---|---|---|
+| **2024 → atual** | **CRECI-RS · Administrativo** | Fluxos operacionais, triagem documental e integridade de informações cadastrais. |
+| **2022 → atual** | **Hamburgo Plast · Faturamento** | Pedidos, notas fiscais, dados de vendas e integração entre administração e logística. |
+| **2023 → 2024** | **Mtrek · Front-end** | Interfaces em React/JavaScript, APIs REST e mais de 15 componentes reutilizáveis. |
+| **2024 → 2028** | **Ciência da Computação · Estácio** | Formação em lógica, software, dados e fundamentos computacionais. |
+
+## `06 / PRÓXIMO NÍVEL`
+
+<table>
+<tr>
+<td width="70%" valign="middle">
+
+### Dados melhores começam com boas perguntas.
+
+Busco oportunidades em **Dados e Analytics** onde eu possa conectar tecnologia, operação e negócio — transformando informação em decisões claras e soluções que funcionam.
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+[![Vamos conversar](https://img.shields.io/badge/VAMOS_CONVERSAR-4BB8FF?style=for-the-badge&logo=linkedin&logoColor=071426)](https://www.linkedin.com/in/leonardo-wendt)
+
+[![Ver portfólio](https://img.shields.io/badge/VER_PORTFÓLIO-6AE4BD?style=for-the-badge&logo=googlechrome&logoColor=071426)](https://ifwendt.github.io)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>DESIGNED AS A DATA PRODUCT · LEONARDO WENDT · 2026</sub>
 
 </div>
